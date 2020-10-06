@@ -11,6 +11,7 @@
         <module>SpringMVC_01_HelloWorld</module>
         <module>SpringMVC_02_RESTful</module>
         <module>SpringMVC_03_Request</module>
+        <module>SpringMVC_04_Output</module>
     </modules>
     <packaging>pom</packaging>
 
